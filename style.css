@@ -1,0 +1,50 @@
+/* Stylesheet.css */
+
+/* Überschriften */
+h1 {
+    color: red;
+  }
+  
+  h2 {
+    color: rgb(255, 0, 234);
+  }
+  
+  h3 {
+    color: yellow;
+  }
+  
+  h4 {
+    color: rgb(2, 255, 141);
+  }
+  
+  h5 {
+    color: blue;
+  }
+  
+  h6 {
+    color: purple;
+  }
+  
+  /* Hintergrundfarben */
+  body {
+    background-color: rgba(1, 230, 255, 0.959);
+  }
+  
+  /* Textfarben */
+  p {
+    color: rgb(90, 139, 0);
+  }
+  
+  a {
+    color: teal;
+  }
+  
+  /* Boxen */
+  .box {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(149, 31, 51);
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+  }

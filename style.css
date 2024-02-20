@@ -1,4 +1,4 @@
-/* Stylesheet.css */
+/*Der Sinn der styles.css ist, die Farben, die Schriftgröße/-art und das aussehen aller Elemente in der HTML-Datei zu gestalten.*/
 
 /* Überschriften */
 h1 {
@@ -29,7 +29,20 @@ h1 {
   body {
     background-color: rgba(1, 230, 255, 0.959);
   }
+
+  table{
+    border:1px  solid;
+    width: 100%
   
+  }
+  
+  tr{
+    border: 1px Solid;
+  }
+
+  th{
+    border: 1px Solid;
+  }
   /* Textfarben */
   p {
     color: rgb(90, 139, 0);
